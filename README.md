@@ -1,4 +1,4 @@
-<img class="img" src="https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif" width="100%"/>
+
 # 🦝 Hello, I am little bit Web Developer
 📋 currently working on my pet projects<br>👨🏼‍🎓 studying JavaScript and much more<br>👨🏼‍💻 waiting for the interview results<br></i>
 
