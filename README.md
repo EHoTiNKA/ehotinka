@@ -1,6 +1,6 @@
 
 # 🦝 Hello, I am little bit Web Developer
-📋 currently working on my pet projects<br>👨🏼‍🎓 studying JavaScript and much more<br>👨🏼‍💻 waiting for the interview results<br></i>
+📋 currently working on my pet projects<br>👨🏼‍🎓 studying JavaScript and much more<br>👨🏼‍💻 looking for an internship offer<br></i>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ehotinka) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/EHoTiNKA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexe.pyshkin@yandex.ru)
 
